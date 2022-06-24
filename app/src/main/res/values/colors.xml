@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    //AppColor
+    <color name="primary">#6DD5ED</color>
+    <color name="primaryLight">#f5e8e8</color>
+    <color name="primaryTextLight">#DEE2E6</color>
+    <color name="secondaryTextLight">#8E98A0</color>
+    <color name="primaryText">#08233D</color>
+    <color name="primarybutton">#008BD9</color>
+    <color name="statusbar">#C0C0C0</color>
+    <color name="gold">#FFD700</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="platinium">#e5e4e2</color>
+    <color name="confirmyes">#2193B0</color>
+    <color name="confirmno">#6DD5ED</color>
+</resources>
